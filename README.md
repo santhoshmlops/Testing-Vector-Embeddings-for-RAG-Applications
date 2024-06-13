@@ -1,4 +1,4 @@
-# Testing Vector Embeddings for RAG-Applications
+# Testing Vector Embeddings Models for RAG-Applications
 
 #### Objective
 The primary goal of this project is to evaluate and compare various vector embedding models in the context of Retrieval-Augmented Generation (RAG) applications. This involves determining which models produce the most accurate and contextually relevant embeddings for use in RAG systems. The evaluation will be based on the cosine similarity metric to quantify the similarity between model outputs for the same queries.
